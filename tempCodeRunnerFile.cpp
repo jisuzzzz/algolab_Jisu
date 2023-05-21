@@ -1,0 +1,1 @@
+            // if(board[nx][ny]==Empty) break;
